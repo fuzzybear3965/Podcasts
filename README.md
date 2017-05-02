@@ -1,10 +1,17 @@
 # Podcasts
+1. [Introduction](#introduction)
+1. [List](#list)
+1. [License](#license)
+
+### Introduction
 A square-bracketed list of identifiers follows each podcast title.  
 
  * \* indicates the podcast is one I am currently following actively (listening to regularly when available).  
  * ! indicates the podcast is one that I very much enjoy.  
  * \# indicates the podcast may have "special appeal" and that I would not be surprised if it was not enjoyed.  
  * @ indicates the podcast has broad appeal and should be relatively enjoyable for most people.
+
+### List
 
  * 10% Happier with Dan Harris
  * 99% Invisible [\*,!,@]
@@ -29,7 +36,7 @@ A square-bracketed list of identifiers follows each podcast title.
  * This American Life [\*,!,@]
  * Waking Up with Sam Harris [\*,!,#]
 
-# License
+### License
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
 Version 2, December 2017 
 
