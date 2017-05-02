@@ -1,5 +1,33 @@
 # Podcasts
-A (probably outdated) list of podcasts that I listen to.
+A (probably outdated) list of podcasts to which I (have) listen(ed).
+A square-bracketed list of identifiers follow the podcast names.
+A \* indicates the podcast is one I am currently following actively (listening to regularly when available).
+A ! indicates the podcast is one that I very much enjoy.
+A # indicates the podcast may have "special appeal" and that I would not be surprised if it was not enjoyed.
+A @ indicates the podcast has broad appeal and should be relatively enjoyable for most people.
+
+ * 10% Happier with Dan Harris
+ * 99% Invisible [\*,!,@]
+ * Bitcoin Uncensored [#]
+ * Embedded [\*,!]
+ * Featured Voices
+ * Love + Radio [!,#]
+ * Newsbud [#]
+ * Radiolab [@,!,@]
+ * Radiolab Presents: More Perfect [!,@]
+ * S-Town [!,@]
+ * Sawbones: A Marital Tour of Misguided Medicine [@]
+ * Serial [\*,!,@]
+ * Stuff You Should Know [\*,!,@]
+ * The Corbett Report Podcast [\*,!,#]
+ * The Joe Rogan Experience [\*,!,#,@]
+ * The Jordan B. Peterson Podcast [!]
+ * The Let's Talk Bitcoin Podcast [#]
+ * the memory palace
+ * The Psychology Podcast
+ * The Rubin Report
+ * This American Life [\*,!,@]
+ * Waking Up with Sam Harris [\*,!,#]
 
 # License
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
