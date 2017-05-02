@@ -14,27 +14,27 @@ are ones that I would recommend for people new to the podcast scene.
 ## List
 
  * 10% Happier with Dan Harris
- * __99% Invisible [\*,!]__
+ * __99% Invisible [\*!]__
  * Bitcoin Uncensored [#]
- * Embedded [\*,!]
+ * Embedded [\*!]
  * Featured Voices
- * Love + Radio [!,#]
+ * Love + Radio [!#]
  * Newsbud [#]
  * __Radiolab [!]__
  * __Radiolab Presents: More Perfect [!]__
  * __S-Town [!]__
  * __Sawbones: A Marital Tour of Misguided Medicine__
- * __Serial [\*,!]__
- * __Stuff You Should Know [\*,!]__
- * The Corbett Report Podcast [\*,!,#]
- * __The Joe Rogan Experience [\*,!,#]__
+ * __Serial [\*!]__
+ * __Stuff You Should Know [\*!]__
+ * The Corbett Report Podcast [\*!#]
+ * __The Joe Rogan Experience [\*!#]__
  * The Jordan B. Peterson Podcast [!]
  * The Let's Talk Bitcoin Podcast [#]
  * the memory palace
  * The Psychology Podcast
  * The Rubin Report
- * __This American Life [\*,!]__
- * Waking Up with Sam Harris [\*,!,#]
+ * __This American Life [\*!]__
+ * Waking Up with Sam Harris [\*!#]
 
 ## License
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
