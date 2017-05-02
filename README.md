@@ -4,36 +4,36 @@
 [License](#license)
 
 ## Introduction
-A square-bracketed list of identifiers follows each podcast title.  
+A square-bracketed list of identifiers follows each podcast title. Bolded titles
+are ones that I would recommend for people new to the podcast scene.
 
  * \* indicates the podcast is one I am currently following actively (listening to regularly when available).  
  * ! indicates the podcast is one that I very much enjoy.  
  * \# indicates the podcast may have "special appeal" and that I would not be surprised if it was not enjoyed.  
- * @ indicates the podcast has broad appeal and should be relatively enjoyable for most people.
 
 ## List
 
  * 10% Happier with Dan Harris
- * 99% Invisible [\*,!,@]
+ * __99% Invisible [\*,!]__
  * Bitcoin Uncensored [#]
  * Embedded [\*,!]
  * Featured Voices
  * Love + Radio [!,#]
  * Newsbud [#]
- * Radiolab [@,!,@]
- * Radiolab Presents: More Perfect [!,@]
- * S-Town [!,@]
- * Sawbones: A Marital Tour of Misguided Medicine [@]
- * Serial [\*,!,@]
- * Stuff You Should Know [\*,!,@]
+ * __Radiolab [!]__
+ * __Radiolab Presents: More Perfect [!]__
+ * __S-Town [!]__
+ * __Sawbones: A Marital Tour of Misguided Medicine__
+ * __Serial [\*,!]__
+ * __Stuff You Should Know [\*,!]__
  * The Corbett Report Podcast [\*,!,#]
- * The Joe Rogan Experience [\*,!,#,@]
+ * __The Joe Rogan Experience [\*,!,#]__
  * The Jordan B. Peterson Podcast [!]
  * The Let's Talk Bitcoin Podcast [#]
  * the memory palace
  * The Psychology Podcast
  * The Rubin Report
- * This American Life [\*,!,@]
+ * __This American Life [\*,!]__
  * Waking Up with Sam Harris [\*,!,#]
 
 ## License
