@@ -1,9 +1,14 @@
 # Podcasts
 A (probably outdated) list of podcasts to which I (have) listen(ed).
+
 A square-bracketed list of identifiers follow the podcast names.
+
 A \* indicates the podcast is one I am currently following actively (listening to regularly when available).
+
 A ! indicates the podcast is one that I very much enjoy.
+
 A # indicates the podcast may have "special appeal" and that I would not be surprised if it was not enjoyed.
+
 A @ indicates the podcast has broad appeal and should be relatively enjoyable for most people.
 
  * 10% Happier with Dan Harris
