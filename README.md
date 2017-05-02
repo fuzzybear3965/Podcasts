@@ -1,7 +1,7 @@
 # Podcasts
-1. [Introduction](#introduction)
-1. [List](#list)
-1. [License](#license)
+[Introduction](#introduction)  
+[List](#list)  
+[License](#license)
 
 ### Introduction
 A square-bracketed list of identifiers follows each podcast title.  
